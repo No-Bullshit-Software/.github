@@ -6,3 +6,4 @@ No Bullshit Software, NBSS for short (and profanity-avoiding) is a nonprofit com
   3. It makes no bs decisions and values user choice & privacy
 
 # Our projects
+yet to be announced
